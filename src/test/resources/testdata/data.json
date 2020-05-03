@@ -1,0 +1,13 @@
+{
+	"SignInUser": {
+		"email": "bob@test.com",
+		"password": "bobbillytest",
+		"prodColor": "#5D9CEC",
+		"NavigatedURL": "https://www.facebook.com/",
+		"itemQuantity": "2",
+		"addressName": "bob billy"
+	},
+	"TestData2": {
+		"productName": "powerbank"
+	}
+}
